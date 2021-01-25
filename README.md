@@ -13,8 +13,8 @@
 
 ## My Repos
 
+[![BiliInfo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilirz&repo=BiliInfo)](https://github.com/bilirz/BiliInfo)
 [![BiliSpider Card](https://github-readme-stats.vercel.app/api/pin/?username=bilirz&repo=BiliSpider)](https://github.com/bilirz/BiliSpider)
-[![BPUSpider Card](https://github-readme-stats.vercel.app/api/pin/?username=bilirz&repo=BPUSpider)](https://github.com/bilirz/BPUSpider)
 
 <!--
 **bilirz/bilirz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
