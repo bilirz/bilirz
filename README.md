@@ -7,10 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilirz)
 ![bilirz's stats](https://github-readme-stats.vercel.app/api?username=bilirz&hide=contribs,prs)
 
-## My Website
-
-[BiliRZ](https://www.bilirz.com): The website is under maintenance
-
 ## My Repos
 
 [![BiliInfo Card](https://github-readme-stats.vercel.app/api/pin/?username=bilirz&repo=BiliInfo)](https://github.com/bilirz/BiliInfo)
