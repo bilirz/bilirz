@@ -5,7 +5,7 @@
 ![Repos](https://badges.pufler.dev/repos/bilirz)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilirz)
-![bilirz's stats](https://github-readme-stats.vercel.app/api?username=bilirz)
+![bilirz's stats](https://github-readme-stats.vercel.app/api?username=bilirz&line_height=33.9&show_icons=true)
 
 ## My Repos
 
